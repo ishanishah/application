@@ -1,0 +1,28 @@
+{
+    "Countries":[
+        {
+            "countryID" : 1,
+            "country" : "INDIA",
+            "countryCode" : "IN"
+        },
+        {
+            "countryID" : 2,
+            "country" : "United State",
+            "countryCode" : "US"
+        }
+    ],
+    "States":[
+        {
+            "stateID" : 1,
+            "state" : "Maharashtra",
+            "stateCode" : "MH",
+            "countryID" : 1
+        },
+        {
+            "stateID" : 2,
+            "state" : "Delhi",
+            "stateCode" : "DL",
+            "countryID" : 1
+        }
+    ]
+  }
